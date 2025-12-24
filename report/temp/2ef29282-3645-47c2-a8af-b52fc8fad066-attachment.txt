@@ -1,5 +1,0 @@
-{
-    "error_code": null,
-    "msg": "新增成功",
-    "msg_code": 200
-}

@@ -1,5 +1,0 @@
-INFO - 2025-04-18 17:58:35,121 - assertions.py:170 -[assertions:assert_result] - yaml文件预期结果：[{'contains': {'msg': '查询成功'}}, {'eq': {'msg_code': 200}}]
-INFO - 2025-04-18 17:58:35,121 - assertions.py:45 -[assertions:contains_assert] - 字符串包含断言成功：预期结果【查询成功】,实际结果【查询成功!】
-INFO - 2025-04-18 17:58:35,121 - assertions.py:68 -[assertions:equal_assert] - 相等断言成功：接口实际结果：{'msg_code': 200}，等于预期结果：{'msg_code': 200}
-INFO - 2025-04-18 17:58:35,122 - assertions.py:198 -[assertions:assert_result] - 测试成功
-INFO - 2025-04-18 17:58:35,143 - conftest.py:22 -[conftest:start_test_and_end] - -------------接口测试结束--------------
